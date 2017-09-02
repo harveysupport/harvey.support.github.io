@@ -1,10 +1,10 @@
 {
     "version": "0.1.0",
     "command": "powershell",
-    "options": {
-        "cwd": "C:\\Users\\uetokenceo\\Source\\bootstrap"
-    },
+  "options": {
+    "cwd": "C:\\Git\\harvey.support.github.io"
+  },
     "isShellCommand": true,
-    "args": ["-command", "grunt dist ; cp .\\dist\\css\\bootstrap.min.css ..\\uetoken.github.io\\bootstrap-uetoken.css ; cp .\\dist\\js\\bootstrap.min.js ..\\uetoken.github.io\\bootstrap-uetoken.js"],
+    "args": ["-command", "grunt dist ; cp .\\dist\\css\\bootstrap.min.css ..\\harveysupport.github.io\\bootstrap-harveytoken.css ; cp .\\dist\\js\\bootstrap.min.js ..\\harvey.support.github.io\\bootstrap-harveytoken.js"],
     "showOutput": "always"
 }

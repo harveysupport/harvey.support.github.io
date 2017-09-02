@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-harvey.support.github",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-bootstrap-harveytoken",
+      "appliesTo": "bootstrap-harveytoken.css",
+      "type": "launch"
+    }
+  ]
+}
